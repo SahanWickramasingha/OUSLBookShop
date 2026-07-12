@@ -1,4 +1,3 @@
-https://sahanwickramasingha.github.io/OUSLBookShop/
 # 📚 OUSL Book Shop
 
 A web-based online bookshop application developed as part of an academic assignment 
