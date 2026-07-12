@@ -6,9 +6,16 @@ search, and purchase books through a simple and user-friendly interface, while
 storing book and order data in a backend database.
 
 ## 🌐 Live Demo
-https://sahanwickramasingha.github.io/OUSLBookShop/
+
+[https://sahanwickramasingha.github.io/OUSLBookShop/](https://sahanwickramasingha.github.io/OUSLBookShop/)
+
+> **Note:** The live demo (GitHub Pages) only shows the static frontend, since GitHub 
+> Pages cannot run PHP or connect to a database. To use the full application with 
+> database functionality (login, checkout, etc.), run the project locally using a 
+> PHP server — see [Getting Started](#-getting-started) below.
 
 ## ✨ Features
+
 - Browse and view available books
 - Product listing with images and details
 - Simple, responsive front-end design
@@ -16,6 +23,7 @@ https://sahanwickramasingha.github.io/OUSLBookShop/
 - Order/checkout process
 
 ## 🛠️ Tech Stack
+
 - **Frontend:** HTML, CSS
 - **Backend:** PHP (htdocs)
 - **Database:** MySQL
